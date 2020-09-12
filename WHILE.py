@@ -19,7 +19,8 @@ def three_argument ():
         elif number_1 == number_2: \
                 print('The first argument:', number_1, '(on input) - is EQUAL to the second argument:', number_2,
                       '\n' 'Please enter correct arguments.')
-    return number_1
+    # return number_1
 
 x = three_argument()
-print(x)
+
+# print(x)
